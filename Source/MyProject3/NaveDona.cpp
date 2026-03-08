@@ -50,7 +50,9 @@ void ANaveDona::movimiento_vertical()
         }
     }
 }
-
+void ANaveDona::movimiento3()
+{
+}
 void ANaveDona::movimientoEspecial()
 
 {

@@ -33,6 +33,7 @@ public:
 	void movimiento_vertical();
 
 	void movimientoEspecial();
+	void movimiento3();
 	
 
 	UPROPERTY(EditAnywhere, Category = "Atributos")
