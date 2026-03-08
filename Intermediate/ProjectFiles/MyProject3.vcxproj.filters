@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\MyProject3.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{74B57A22-27E3-4C39-9724-0BF596848178}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MyProject3.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MyProject3Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{29FCC424-5234-4697-98AD-CEF86F367605}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\MyProject3">
+      <UniqueIdentifier>{BC1D64EA-E208-40BF-8DCC-E14D5B3ECC7C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MyProject3\MyProject3.Build.cs">
+      <Filter>Source\MyProject3</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\MyProject3\MyProject3.cpp">
+      <Filter>Source\MyProject3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyProject3\MyProject3.h">
+      <Filter>Source\MyProject3</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MyProject3\MyProject3GameMode.cpp">
+      <Filter>Source\MyProject3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyProject3\MyProject3GameMode.h">
+      <Filter>Source\MyProject3</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MyProject3\MyProject3Pawn.cpp">
+      <Filter>Source\MyProject3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyProject3\MyProject3Pawn.h">
+      <Filter>Source\MyProject3</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MyProject3\NaveDona.cpp">
+      <Filter>Source\MyProject3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyProject3\NaveDona.h">
+      <Filter>Source\MyProject3</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
