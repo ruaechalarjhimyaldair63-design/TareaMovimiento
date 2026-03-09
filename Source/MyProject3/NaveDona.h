@@ -33,7 +33,24 @@ public:
 	void movimiento_vertical();
 
 	void movimientoEspecial();
-	void movimiento3();
+	void Movimiento3();
+	void Movimiento4();
+	void Movimiento5();
+	void Movimiento6();
+	void Movimiento7();
+	void Movimiento8();
+	void Movimiento9();
+	void Movimiento10();
+	void Movimiento11();
+	void Movimiento12();
+	void Movimiento13();
+	void Movimiento14();
+	void Movimiento15();
+	void Movimiento16();
+	void Movimiento17();
+	void Movimiento18();
+	void Movimiento19();
+	void Movimiento20();
 	
 
 	UPROPERTY(EditAnywhere, Category = "Atributos")
